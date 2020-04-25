@@ -1,0 +1,25 @@
+{
+  "name": "example-node-graphql",
+  "version": "1.0.0",
+  "description": "construindo uma API usando node no formato graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafatrinity/example-node-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafatrinity/example-node-graphql/issues"
+  },
+  "homepage": "https://github.com/rafatrinity/example-node-graphql#readme",
+  "dependencies": {
+    "espress": "0.0.0",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0"
+  }
+}
